@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["style.scss"],"sourcesContent":["@import url(\"https://fonts.googleapis.com/css2?family=Mulish:ital\"); // Sass Template\n\n/*\n// Sass templates \nsass varianles\n*/\n\n@import'./include/variables.scss';\n@import'./include/global.scss';\n@import'./include/typography.scss';"],"file":"style.css"}
